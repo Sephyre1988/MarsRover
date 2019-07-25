@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repo.sephyre.MarsRoverMovementControl", "MarsRoverMovementControl\repo.sephyre.MarsRoverMovementControl.csproj", "{7AAC84B7-D70C-40B5-B7C4-55B351AC59B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AAC84B7-D70C-40B5-B7C4-55B351AC59B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAC84B7-D70C-40B5-B7C4-55B351AC59B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAC84B7-D70C-40B5-B7C4-55B351AC59B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAC84B7-D70C-40B5-B7C4-55B351AC59B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF549E53-43D0-431B-9CC3-866ACE3BF4FD}
+	EndGlobalSection
+EndGlobal
